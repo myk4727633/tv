@@ -3,6 +3,8 @@
 
 我暂时使用了ivi、github1和码云1的节目源。
 
+分类标识：**央视,#genre#**
+
 github上提供电视源的仓库提供如下：
 
 1. 天王星软件（自带电视源）和直播源下载（和软件内一样）：[传送门](https://github.com/myernestlu/myernestlu.github.io)
