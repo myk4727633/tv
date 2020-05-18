@@ -96,7 +96,7 @@ CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 安徽卫视,http://39.135.34.150:8080/000000001000/4774346722046993363/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=4774346722046993363&owchid=ystenlive&owsid=1106497909461303710&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6rtwuCbF0UBw1ECKohiyVXtAaM2LAoJTgBkO9sqSP7vGKF4XQrqmpBPeC9CblENbpBoei4M1GZJUNAFlnpSFVM
 安徽卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/ahws/1300000/mnf.m3u8
 黑龙江卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/4000000/mnf.m3u8
-黑龙江卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/2300000/mnf.m3u8
+黑龙江卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/2300000/mnf.m3u8
 黑龙江卫视,http://ivi.bupt.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,http://ivi.bupt.edu.cn/hls/hljtv.m3u8
 黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
