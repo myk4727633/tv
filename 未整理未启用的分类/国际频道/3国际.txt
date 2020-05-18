@@ -14,3 +14,9 @@
 新加坡8频道标清,http://ruijian.52yi.vip/daili/qq.php?id=sjp02
 新加坡8频道标清,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡朝阳频道马来语标清,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+American,http://170.178.189.66:1935/live/Stream1/playlist.m3u8 
+WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8 
+
+奥地利KRAL,http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8 
+越南ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8 
+	
