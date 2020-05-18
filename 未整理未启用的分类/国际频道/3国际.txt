@@ -1,0 +1,16 @@
+
+
+日本天气预报标清,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+日本天气预报标清,http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+朝鲜中央电视台标清,https://tv.nknews.org/tvhls/stream.m3u8
+韩国EBS 1标清,http://110.10.122.10:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国EBS 1标清，http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国EBS E标清,http://58.229.187.11/plus3familypc/_definst_/familypc1m/chunklist_w426400414.m3u8
+韩国EBS Kids标清,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国UBC标清,http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
+韩国Arirang Korea高清,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国Arirang Korea高清,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+新加坡5频道标清,http://ruijian.52yi.vip/daili/qq.php?id=sjp01
+新加坡8频道标清,http://ruijian.52yi.vip/daili/qq.php?id=sjp02
+新加坡8频道标清,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新加坡朝阳频道马来语标清,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
