@@ -16,7 +16,6 @@ CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 CCTV-3综艺,http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8	
 CCTV-3综艺,http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8	
 CCTV-3综艺,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8	
-CCTV3-综艺,http://183.207.249.15/PLTV/3/224/3221225588/index.m3u8	
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8	
 CCTV-3综艺,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8	
 CCTV-4中文国际,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8	
@@ -41,12 +40,12 @@ CCTV-7国防军事,http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8
 CCTV-7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8	
 CCTV-7国防军事,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8	
 CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8	
-CCTV8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8	
-CCTV8电视剧,http://183.207.248.11/PLTV/4/224/3221225866/index.m3u8	
-CCTV8电视剧,http://223.110.245.139:80/PLTV/4/224/3221227304/index.m3u8	
-CCTV8电视剧,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227304/index.m3u8	
-CCTV8电视剧,http://223.110.243.170/PLTV/3/224/3221227204/index.m3u8	
-CCTV8电视剧,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8	
+CCTV-8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8	
+CCTV-8电视剧,http://183.207.248.11/PLTV/4/224/3221225866/index.m3u8	
+CCTV-8电视剧,http://223.110.245.139:80/PLTV/4/224/3221227304/index.m3u8	
+CCTV-8电视剧,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227304/index.m3u8	
+CCTV-8电视剧,http://223.110.243.170/PLTV/3/224/3221227204/index.m3u8	
+CCTV-8电视剧,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8	
 CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8	
 CCTV-9纪录,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8	
 CCTV-9纪录,http://183.207.248.11/PLTV/4/224/3221225868/index.m3u8	
@@ -335,15 +334,13 @@ CETV-4,http://ivi.bupt.edu.cn/hls/cetv4.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8	
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv	
 凤凰香港台,http://223.82.250.72/live/fhhongkong/1.m3u8	
-凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8	
-凤凰卫视资讯台,http://223.82.250.72/live/fhzixun/1.m3u8	
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8		
 凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8	
 凤凰卫视资讯台,http://125.210.152.18:9090/live/FHZX_1200.m3u8	
 凤凰卫视中文台,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8	
 凤凰卫视中文台,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8	
 凤凰卫视中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8	
-凤凰卫视中文台,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8	
-凤凰卫视中文台,http://223.82.250.72/live/fhchinese/1.m3u8	
+凤凰卫视中文台,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8		
 凤凰卫视中文台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw	
 TVB 翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8	
 TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1	
